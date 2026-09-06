@@ -1,12 +1,10 @@
 # Welcome to the Java Track
 
-## My Name
-
-Write your name.
+Shivam Singh Yadav
 
 ## What I Learned in Foundation Month
 
-Write at least three things you learned.
+Basic(control statement, conditional statement, arrays, strings, OOPs basic)
 
 ## Why I Selected Java
 
