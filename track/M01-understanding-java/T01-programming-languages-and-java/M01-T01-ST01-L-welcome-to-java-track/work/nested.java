@@ -9,7 +9,7 @@ public class nested {
 //         if (isTicket==true) {
 //             if (age >= 18) {
 //                 System.out.println("Eligible");
-//             } else {
+//             } else {nested if-else
 //                 System.out.println("Not Eligible");
 //             }
 //         } else {
@@ -19,7 +19,7 @@ public class nested {
 // }
 
 // using single condition  .
-        if (isTicket && age >= 18) {
+        if (isTicket == true && age >= 18) {
             System.out.println("eligible");
 
         } else {
