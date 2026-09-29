@@ -6,7 +6,7 @@ public class nested {
         boolean isTicket = true;
         int age = 50;
 // using nested if-else
-//         if (isTicket) {
+//         if (isTicket==true) {
 //             if (age >= 18) {
 //                 System.out.println("Eligible");
 //             } else {
